@@ -1,3 +1,3 @@
 # fsm
 finite state machine
-Initialize the regression and classification algorithm
+Initialize the regression and classification algorithm.
